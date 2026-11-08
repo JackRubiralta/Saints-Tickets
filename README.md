@@ -8,4 +8,6 @@ A marketplace app where verified University of St Andrews students buy and sell 
 
 Payments by Stripe. iOS and Android app in development.
 
+Saints Tickets is an independent student project. It is not affiliated with or endorsed by the University of St Andrews or the University of St Andrews Students' Association.
+
 Contact: jackrubiralta@proton.me
